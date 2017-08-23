@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\function_list.xml"
+    }
+]

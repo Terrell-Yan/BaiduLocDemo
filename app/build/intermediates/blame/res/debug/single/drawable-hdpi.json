@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huaji.png",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_focuse_mark.png",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_mark.png",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huaji.png",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_focuse_mark.png",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_mark.png",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    }
+]

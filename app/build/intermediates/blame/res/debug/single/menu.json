@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Users\\clamp\\Downloads\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\as\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\as\\BaiduLocDemo\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
